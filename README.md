@@ -4,7 +4,7 @@ My name is **Vyacheslav Podolskiy** and I'm computer software engineer. I'm 3rd 
 ### My projects
 Developed the backend for a visual novel game [LogicNovelMystery](https://github.com/Vad1mChK/LogicNovelMystery) using Spring framework, focusing on scalable architecture, game logic processing, and seamless interaction with the frontend.
 
-Developed several microservices in pure Kotlin for a collaborative healthy lifestyle app project (code name: **happ**). Focused on clean architecture, service communication, and maintainability.
+Developed several microservices in pure Kotlin for a collaborative healthy lifestyle app project (code name: [**happ**](https://github.com/BARSHunters/happ-backend)). Focused on clean architecture, service communication, and maintainability.
 
 You can find more of my projects and contributions in my GitHub [Repositories](https://github.com/DemonM1x?tab=repositories).
 
